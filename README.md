@@ -16,6 +16,3 @@ The accuracy of the model is evaluated using both training and testing datasets.
 To use the Diabetes Predictor, you can provide the necessary input features for a patient, such as age, number of pregnancies, BMI, blood pressure, insulin level, glucose concentration, etc. The model will analyze the input and provide a prediction on whether the patient is likely to have diabetes or not.
 
 Please refer to the code provided in this repository for detailed instructions on setting up the environment, training the model, and using it for diabetes prediction.
-
-## Acknowledgments
-This project utilizes the Pima Indians Diabetes Dataset, which has been made available by the original contributors. We would like to express our gratitude for providing this valuable dataset, enabling us to develop the Diabetes Predictor.
